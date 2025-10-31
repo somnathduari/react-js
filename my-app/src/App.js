@@ -14,7 +14,7 @@ function App() {
       </nav>
       <div className="contener">
         <h1>Hellow {name} </h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad aperiam illo repellendus odit, quo minima autem corrupti, quod, eum tempore dolore nisi! Molestias perspiciatis atque aliquam aperiam temporibus unde facere. Nihil quisquam maiores possimus!</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad aperiam illo repellendus odit, quo minima autem corrupti, quod, eum tempore dolore nisi! Molestias perspiciatis atque aliquam aperiam temporibus unde facere. Nihil quisquam maiores possimus! the</p>
       </div>
     </>
   );
